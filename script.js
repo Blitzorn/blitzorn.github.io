@@ -10,7 +10,7 @@ Iya.addEventListener("click", function () {
         Text.classList.remove('text-animate');
         void Text.offsetWidth; 
         Text.innerHTML = "سَلَـٰمٌ عَلَيْكُمُ <br> Halo, ini Billdan";
-        Image.setAttribute("src", "https://c.tenor.com/W8JwWPQ2ExgAAAAj/assalamualaikum-breakfasting.gif");
+        Image.setAttribute("src", "https://c.tenor.com/rWDKVGOzcQYAAAAd/ramadan-kareem-ramadan-mubarak.gif");
         Text.classList.add('text-animate');
     }else if (Iya.value == 2) {
         Text.classList.remove('text-animate');
